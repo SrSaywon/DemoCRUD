@@ -1,10 +1,10 @@
 package com.voitureproject.models;
 
 
+import jakarta.persistence.*;
 import lombok.Builder;
 import lombok.Data;
 
-import javax.persistence.*;
 
 @Data
 @Builder
